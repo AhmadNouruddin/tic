@@ -9,7 +9,7 @@ import * as database from "https://www.gstatic.com/firebasejs/10.7.2/firebase-da
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD3uKCsfSnrttKDqSLQOjJ7lv8M3WTJG28",
+ 
   authDomain: "tic-tac-toe-48675.firebaseapp.com",
   databaseURL: "https://tic-tac-toe-48675-default-rtdb.firebaseio.com",
   projectId: "tic-tac-toe-48675",
